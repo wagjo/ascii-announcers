@@ -74,3 +74,4 @@ def trim(text):
     return text
 
 announcers = {k: trim(v) for k, v in raw.items()}
+hello = {"cow":"Moo","tux":"Noot Noot","cat":"Meow","owl":"Hoot","horse":"Neigh","dog":"Woof","elephant":"Toot","monkey":"Ooh Ooh Ah Ah"}

@@ -1,3 +1,3 @@
-from .impl import announcers
+from .impl import announcers, hello
 
-__all__ = ["announcers"]
+__all__ = ["announcers", "hello"]
